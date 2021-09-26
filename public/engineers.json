@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Sandi Metz",
+		"phone": "1-860-870-1579",
+		"email": "lectus@quisurna.edu",
+		"country": "Austria",
+		"expertise": "Ruby on Rails Developer",
+		"salary": "8335.49",
+		"img":"https://blog.codersrank.io/wp-content/uploads/2021/03/sandi-metz.webp"
+	},
+	{
+		"name": "Alicia Sykes",
+		"phone": "1-331-455-3565",
+		"email": "metus.aliquam@lobortisclass.com",
+		"country": "South Korea",
+		"expertise": "Full-stack Web Developer",
+		"salary": "5758.60",
+		"img":"https://blog.codersrank.io/wp-content/uploads/2021/03/alicia-sykes.webp"
+	},
+	{
+		"name": "Joanna Rutkowska",
+		"phone": "(335) 594-9942",
+		"email": "vitae.aliquet@donecest.edu",
+		"country": "Turkey",
+		"expertise": "Joanna Rutkowska",
+		"salary": "8430.17",
+		"img":"https://blog.codersrank.io/wp-content/uploads/2021/03/joanna-rutkowska.webp"
+	},
+	{
+		"name": "Judit Pacsai",
+		"phone": "(722) 679-7226",
+		"email": "tellus.sem@vitae.com",
+		"country": "United Kingdom",
+		"expertise": "Front-end Developer",
+		"salary": "7806.38",
+		"img":"https://blog.codersrank.io/wp-content/uploads/2020/10/judit-pacsai-1.webp"
+	},
+	{
+		"name": "Joanna Otmianowska",
+		"phone": "(124) 821-0772",
+		"email": "porttitor.tellus.non@eliteratvitae.org",
+		"country": "Ireland",
+		"expertise": "Front-End Engineer | Blogger",
+		"salary": "2329.90",
+		"img":"https://blog.codersrank.io/wp-content/uploads/2021/03/joanna-otmianowska.webp"
+	},
+	{
+		"name": "Dani Roxberry ",
+		"phone": "(847) 715-2470",
+		"email": "eget.nisi.dictum@sitamet.ca",
+		"country": "Indonesia",
+		"expertise": "Python and Go Developer",
+		"salary": "8578.10",
+		"img":"https://blog.codersrank.io/wp-content/uploads/2021/03/dani-roxberry.webp"
+	},
+	{
+		"name": "Beata Zalewa ",
+		"phone": "(420) 530-8435",
+		"email": "sagittis.semper@dolor.ca",
+		"country": "United States",
+		"expertise": "Full-stack Developer",
+		"salary": "4206.83",
+		"img":"https://blog.codersrank.io/wp-content/uploads/2021/03/beata-zalewa.webp"
+	},
+	{
+		"name": "Pamela Fox",
+		"phone": "1-512-352-9261",
+		"email": "id.risus@habitantmorbi.net",
+		"country": "Canada",
+		"expertise": "Front-End Engineer",
+		"salary": "1012.91",
+		"img":"https://blog.codersrank.io/wp-content/uploads/2021/03/pamela-fox.webp"
+	},
+	{
+		"name": "Sara J Chipps",
+		"phone": "(474) 659-5392",
+		"email": "aliquet.proin@facilisissuspendissecommodo.com",
+		"country": "Sweden",
+		"expertise": "Front-End Engineer",
+		"salary": "8204.11",
+		"img":"https://blog.codersrank.io/wp-content/uploads/2021/03/sara-j-chipps.webp"
+	},
+	{
+		"name": "Ania Pietras",
+		"phone": "(931) 356-1793",
+		"email": "gravida.sit@urnanecluctus.edu",
+		"country": "Australia",
+		"expertise": "JavaScript Developer",
+		"salary": "1227.82",
+        "img":"https://blog.codersrank.io/wp-content/uploads/2021/03/ania-pietras.webp"
+	}
+]
