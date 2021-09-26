@@ -1,4 +1,4 @@
-<font size="1">Project Title: 📛</font>
+###Project Title: 📛
 
 
 # Getting Started with Create React App
