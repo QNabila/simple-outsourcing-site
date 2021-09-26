@@ -1,6 +1,7 @@
-### About the Project:📛
+### Project Title:📛
 <br>
 Women in tech
+
 ## Live Link / Demo Link:
 
 In the project directory, you can run:
@@ -13,6 +14,7 @@ This is a single page website for hiring female developers.You can find Top Notc
 #### Techology Used:
 1.Javascript
 2.React
+3.Css
 
 
 
