@@ -4,7 +4,7 @@ Women in tech
 
 ## Live Link / Demo Link:
 
-In the project directory, you can run:
+https://womenintech01.netlify.app/
 
 ### About the Project: 📚
 
