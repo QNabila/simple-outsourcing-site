@@ -1,22 +1,23 @@
-.cart-container{
-    background-color:#f0f1f3d0;
-    height: 100%;
+.cart-container {
+  background-color: #f0f1f3d0;
+  height: 100%;
 }
-.cart{    
-    padding: 30px;
-    margin-left: 10px;
-    margin-right: 10px;
-    text-align: left;
+.cart {
+  padding: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: left;
 }
-.cart h3{
-    padding-bottom: 30px;
-    border-bottom: 1px solid rgba(116, 116, 116, 0.582);
-    margin-bottom: 30px;
+.cart h3 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid rgba(116, 116, 116, 0.582);
+  margin-bottom: 30px;
 }
-.cart p{
-    font-size: 20px;
+.cart p {
+  font-size: 20px;
+  box-shadow: cornsilk;
 }
-.total-price{
-    padding-bottom:30px;
-    border-bottom: 1px solid rgba(116, 116, 116, 0.582);
+.total-price {
+  padding-bottom: 30px;
+  border-bottom: 1px solid rgba(116, 116, 116, 0.582);
 }

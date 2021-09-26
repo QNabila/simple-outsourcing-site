@@ -3,14 +3,14 @@
   grid-template-columns: repeat(3, 1fr);
 }
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 10px 10 rgba(0, 0, 0, 0.2);
   max-width: 300px;
   margin: 10px;
   text-align: center;
   padding: 10px 10px 0 10px;
 }
-.card img{
-    width:40%;
+.card img {
+  width: 40%;
 }
 .title {
   color: grey;
